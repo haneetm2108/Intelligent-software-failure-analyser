@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Software Failure Analyzer",
+  "description": "Proactive software failure detection, log clustering, root-cause analysis, predictive risk scoring, and post-fix verification console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
